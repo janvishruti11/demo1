@@ -1,2 +1,2 @@
 # demo1
-1st repository
+foss practical number 7 on monday
